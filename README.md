@@ -19,7 +19,7 @@ requires annual re-assessment for all participating Cloud Service Providers, inc
 
 ### What we're hoping to end up with
 
-Additional information is provided in [the Performance Work Statement](https://github.com/18F/tts-buy-cloudgov-3pao/blob/master/solicitation_documents/PWS.md), but in short:
+Additional information is provided in the [Performance Work Statement](https://github.com/18F/tts-buy-cloudgov-3pao/blob/master/solicitation_documents/PWS.md), but in short:
 
 The vendor must provide security assessments and reports for an Annual Assessment, with options for including Significant Change Request assessments, for cloud.gov at the JAB Moderate security level. These security assessments must meet all of the requirements of a FedRAMP security assessment, as outline within the Request of Quotation section 3.0 Requirements.
 
