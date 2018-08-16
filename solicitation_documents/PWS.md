@@ -151,9 +151,7 @@ FedRAMP documentation, such as:
 
 # **4.0 Deliverables**
 
-The contractor must deliver 3PAO deliverables required by FedRAMP, as
-guided by FedRAMP documentation and templates. Additionally, the
-contractor is required to provide the following deliverables.
+The Contractor must deliver 3PAO deliverables required by FedRAMP, as guided by FedRAMP documentation and templates. Additionally, the Contractor is required to provide the following deliverables. The dates are tentative and subject to change.
 
 Required
 deliverables:
