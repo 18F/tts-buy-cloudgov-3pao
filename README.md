@@ -1,8 +1,15 @@
 # tts-buy-cloud.gov-3pao
 
-Please submit any questions as [an Issue](https://github.com/18F/tts-buy-cloudgov-3pao/issues) in this repository by *Noon Eastern Time on August 20, 2018*. The Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
+## This RFQ is being posted Per FAR 52.232-18 Availability of Funds. This award will not be made prior to receipt and acceptance of the funds. See FAR 52.232-18 Availability of Funds (APR 1984) in the Clause section of this RFQ.
 
-**Quotes are due by Noon Eastern Time on August 23, 2018**
+## Important Dates to Remember
+
+### Question and Answer Period
+
+All questions submitted concerning the RFQ must be submitted using the issue template in the associated repository no later than Noon Eastern Time on August 20, 2018. The Government will provide responses to open issues as soon as possible.
+
+### Technical and Price Submission
+Quotes will only be accepted via the referenced Google Forms below. The vendor shall complete the Technical Response Google Form and Price Response Google Form. Quotes shall be submitted no later than Noon Eastern Time on August 23, 2018.
 
 ## Statement of Need
 
