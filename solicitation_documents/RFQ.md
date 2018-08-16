@@ -11,11 +11,12 @@ Solicitation Number
 
 {{Solicitation-Number}}
 
-**From:** Michelle McNellis, Contracting Officer, GSA TTS  
-**Subject:** Request for Quotation (RFQ)
+**From:** Kirsten Green, Contracting Officer (CO), General Services Administration (GSA), Technology Transformation Services (TTS)  
 
-**Date:** Month DD, Year  
-**Reply By:** **Month DD, 2018** **4:00 pm EST**
+**Important Dates to Remember**
+Posted Date: August 16, 2018
+Questions Due By: August 20, 2018
+Response Due By: August 23, 2018
 
 **Set Aside:** None
 
@@ -70,11 +71,16 @@ based on initial quotations. Therefore, it is critical your initial
 submission is for your best quotation and that you are fully responsive
 to the RFQ.
 
-Unless expressly authorized by the RFQ, any quoter planning to make an
-exception to a term or condition of the RFQ should consult with the
-Contracting Officer (CO) in writing before submitting a quotation.
+Unless expressly authorized by the RFQ, any quoter planning to make an exception to a term or condition of the RFQ should consult with the CO via email kirsten.green@gsa.gov before submitting a quotation.
 
-1.1 Quote Instructions
+**NOTE: This RFQ is being posted Per FAR 52.232-18 Availability of Funds. This award will not be made prior to receipt and acceptance of the funds. See FAR 52.232-18 Availability of Funds (APR 1984) in the Clause section of this RFQ.
+
+1.1 Questions
+-------------
+
+Any questions submitted concerning the RFQ must be submitted using the issue template in the associated repository no later than Noon Eastern Time on August 20, 2018. The Government will provide responses to open issues as soon as possible.
+
+1.2 Quote Instructions
 ----------------------
 
 Quotes will only be accepted via the referenced Google Forms below. The
@@ -83,13 +89,7 @@ Google Form</span>](https://goo.gl/forms/qiWbrCa0UuhySRmq1) and [<span
 class="underline">Price Response Google
 Form</span>](https://goo.gl/forms/C5UOpsfDrA4bcdKw2).
 
-1.2 Questions
--------------
-
-Any questions submitted concerning the RFQ must be submitted using the
-issue template in the associated repository no later than **Month, Day,
-Year, Time Eastern Time (ET)**. The government will provided responses
-to open issues no later than **Month, Day, Time ET**.
+Quotes shall be submitted no later than Noon Eastern Time on August 23, 2018.
 
 2.0 Background
 ==============
@@ -118,6 +118,8 @@ re-assessment for all participating Cloud Service Providers, including
 annual auditing by an accredited Third Party Assessment Organization
 ([3PAO](https://www.fedramp.gov/participate/assessors/)).
 
+cloud.gov is a PaaS based on the Cloud Foundry and Kubernetes open source projects, heavily automated using tools such as Terraform, BOSH, and Concourse, using Infrastructure as Code, Immutable Infrastructure, and Continuous Integration/Continuous Deployment principles. It is deployed in AWS GovCloud on Linux. It has user documentation publicly available at https://cloud.gov/docs/ including links to open source code at https://cloud.gov/docs/ops/repos/ and other team operations documentation in that section.
+
 Statement of Need
 ------------------
 
@@ -133,11 +135,10 @@ Assessment Organizations (3PAOs) to:
 3.0 Requirements
 ================
 
-3.1 Third Party Assessment Organization
+3.1 3PAO Contractor
 ---------------------------------------
 
-The contractor must be a Third Party Assessment Organization (3PAO) that
-meets the following criteria:
+For the tasks described in the RFQ, the Contractor must be a 3PAO that meets the following criteria:
 
 -   The 3PAO has completed a Readiness Assessment, Initial Assessment,
     > or Annual Assessment for a FedRAMP PaaS cloud system;
@@ -196,7 +197,7 @@ performance, such as:
 -   Templates at [<span
     > class="underline">https://www.fedramp.gov/templates/</span>](https://www.fedramp.gov/templates/)
 
-3.2.1 Annual Assessment
+Task 1. Annual Assessment
 -----------------------
 
 ### **Scope**
@@ -222,7 +223,7 @@ entails is located on FedRAMP.gov, including:
 -   [<span class="underline">Annual Assessment Controls Selection
     > Worksheet</span>](https://www.fedramp.gov/assets/resources/documents/CSP_Annual_Assessment_Controls_Selection_Worksheet.xlsx)
 
-3.2.2 Significant Change Assessment
+Task 2. Significant Change Assessment
 -----------------------------------
 
 ### **Scope**
@@ -248,11 +249,8 @@ FedRAMP documentation, such as:
 3.3 Deliverables
 ----------------
 
-The contractor must deliver 3PAO deliverables required by FedRAMP, as
-guided by FedRAMP documentation and templates. Additionally, the
-contractor is required to provide the following deliverables.
+The Contractor must deliver 3PAO deliverables required by FedRAMP, as guided by FedRAMP documentation and templates. Additionally, the Contractor is required to provide the following deliverables. The dates are tentative and subject to change.
 
-Required deliverables:
 
 | Deliverable                                                                        | Action                                                                     | Due Date                                            |
 |------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------|
@@ -334,7 +332,7 @@ Form</span>](https://goo.gl/forms/qiWbrCa0UuhySRmq1).
 5.2 - Phase 2 Technical Evaluation and Oral Interview
 ------------------------------------------------------
 
-### *Technical Understanding and Approach.*
+### *Factor 1. Technical Understanding and Approach*
 
 The offeror shall describe within the [<span class="underline">Technical
 Evaluation Google Form</span>](https://goo.gl/forms/qiWbrCa0UuhySRmq1),
@@ -361,7 +359,7 @@ requirement as set forth in the PWS, Section 3.0.
         > class="underline">https://cloud.gov/docs/ops/repos/</span>](https://cloud.gov/docs/ops/repos/)
         > and other team operations documentation in that section.
 
-### *Similar Experience*
+### *Factor 2. Similar Experience*
 
 The offeror shall provide at least one example, from private or public
 sector, past or current assessments meeting substantially the same size,
@@ -372,83 +370,50 @@ or teaming partner.
 
 At a minimum, provide;
 
--   Security Assessment Report (SAR) Risk Table findings - two manual
+1)   Security Assessment Report (SAR) Risk Table findings - two manual
     > findings, two scanner findings
 
--   Security Assessment Test Case analysis - two rows
+2)   Security Assessment Test Case analysis - two rows
 
 The Offeror is allowed to remove identifying information about the Cloud
 Service Provider.
 
-5.2.1 Oral Interview
+5.2.1 Interview
 --------------------
 
-| **No.** | **AGENDA ITEM**                                | **MAXIMUM TIME**        |
-|---------|------------------------------------------------|-------------------------|
-| 1       | Introductions                                  | Approximately 5 minutes |
-| 2       | Oral Interview                                 | 40 minutes              |
-| 3       | Closing Remarks and Frequently Asked Questions | 5 minutes               |
+| **AGENDA ITEM**                                | **MAXIMUM TIME**        |
+|------------------------------------------------|-------------------------|
+| Introductions                                  | Approximately 5 minutes |
+| Interview                                      | 40 minutes              |
+| Closing Remarks and Frequently Asked Questions | 5 minutes               |
 
 ### *Rules*
 
-No part of these oral interviews constitutes discussions as contemplated
-in FAR Part 15. For this reason, proposal revisions are not requested
-and will not be allowed.  
+No part of these Interviews constitutes discussions as contemplated in FAR Part 15. For this reason, proposal revisions are not requested and will not be allowed.
 
-The oral interview consists of an unstructured question and answer
-session on technical factors. The entire oral interview will take place
-remotely via video chat and/or teleconference.  
+The Government may take notes during the presentation at its discretion, and may use such notes in the evaluation. No copies will be provided to any Quoters.
 
-Offerors will not be able to use or present slides, graphs, charts or
-any other written presentation materials, including handouts.
+The Interview consists of an unstructured question and answer session on technical factors. The Government’s questions may differ among the Quoters based on what needs elaboration.
 
-### *Content*
+Offerors will not be able to use or present slides, graphs, charts or any other written presentation materials, including handouts.
 
-During the Oral Interview, the offeror will respond to Government’s
-questions related to the technical aspects of the offeror’s proposal.  
+During the Interview, the offeror will respond to Government’s questions related to the technical aspects of the offeror’s proposal.
+ 
+Introductions will be used solely for introducing team member names and roles on both the Government and vendor teams. Time for introductions will not be allocated to business development purposes.
 
-Introductions will be used solely for introducing team member names and
-roles on both the Government and vendor teams. Time for introductions
-will not be allocated to business development purposes.
+Although the technical factors are identified in the RFQ, the core questions are not listed there. Offerors must be prepared to answer questions about the technical aspects of their respective quotes. The goal of the Interview is to assess the technical abilities of the proposed Technical approach to accomplish the objectives of this task.
 
-Although the technical factors are identified in the RFQ, the core
-questions are not listed there. Offerors must be prepared to answer
-questions about the technical aspects of their respective quotes. The
-goal of these presentations is to assess the technical abilities of the
-proposed Technical approach to accomplish the objectives of this task.  
+This part of the Interviews will not exceed 40 minutes. The CO will strictly enforce this time limit on all Interviews. There will be no follow-up session for further questions after this part of the Interview.
+ 
+The session will conclude with closing remarks and responses to questions and answers from offerors.
 
-This part of the oral interviews will not exceed 40 minutes. The
-Contracting Officer will strictly enforce this time limit on all
-presentations. There will be no follow-up session for further questions
-after this part of the presentation.  
+The entire Interview will take place remotely via video chat and/or teleconference. The Government will coordinate and set up the meeting space accordingly (providing dial-in information or links using a tool such as Zoom or Appear.in).
 
-The session will conclude with closing remarks and responses to
-questions and answers from offerors.
+The Government will schedule the date and time of the Interviews with each offeror after the solicitation closing date and receiving each offeror’s quote submission. Time slots will be assigned randomly. The Government reserves the right to reschedule any offeror’s Interviews date at the discretion of the CO.
 
-### *Presentation Location*
-
-Oral Presentations will take place via video chat, though audio may be
-substituted as needed. The Government will coordinate and set up the
-meeting space accordingly (providing dial-in information or links using
-a tool such as Zoom or Appear.in).
-
-### *Presentation Date and Time*
-
-The Government will schedule the date and time of the oral interviews
-with each offeror after the solicitation closing date and receiving each
-offeror’s quote submission. Time slots will be assigned randomly. The
-Government reserves the right to reschedule any offeror’s oral
-interviews date at the discretion of the contracting officer.
-
-### *Presentation Participants*
-
-Offerors may include as many participants as are necessary. Offerors
-should note that the Government will be asking technical questions
-during the oral interview, so non-technical personnel may not need to
-attend.  
-
-After the presentations, vendors must email the meeting organizers the
-names of everyone who attended.
+Offerors may include as many participants as are necessary. Offerors should note that the Government will be asking technical questions during the Interview, so non-technical personnel may not need to attend.
+ 
+After the Interviews, vendors shall email the names of everyone who attended to the meeting organizers.
 
 5.3 - Phase 3 Price Evaluation
 -------------------------------
@@ -460,13 +425,7 @@ Form</span>](https://goo.gl/forms/0k0niNqDRJ9WcGDw1). Proposed prices
 shall be evaluated for reasonableness and consistency with industry
 standards.
 
-Evaluation of options under FAR [<span
-class="underline">52.217-8</span>](https://www.acquisition.gov/far/html/52_217_221.html#wp1135887)
-will be accomplished by using the prices offered for the last option
-period to determine the price for a 6-month option period, which will be
-added to the base and other option years to arrive at the total price.
-Evaluation of options will not obligate the Government to exercise the
-option(s).
+In the event the Government modifies the order under FAR 52.217-8, accepted/awarded prices for the last Option Year will be used. Evaluation of Option Years does not obligate the Government to exercise Option Years.
 
 The Government also reserves the right to make no award.
 
@@ -482,36 +441,24 @@ Years. Actual dates will be provided at time of award.
 The contract type is a hybrid Firm Fixed Price (FFP) with a Labor Hour
 (LH) CLIN.
 
+CLIN 0001, 1001, 2001, 3001, 4001: Annual Assessment - FFP
+CLIN 0002, 1002, 2002, 3002, 4002: Significant Change Request - LH
+
 8.0 Invoicing
 =============
 
-The selected vendor must submit invoices on a monthly basis. The vendor
-must submit a final invoice at the end of the period of performance
-within 60 calendar days from contract completion. No further charges are
-to be billed following the final invoice submission. With the submission
-of a final invoice, a completed and signed Release of Claims (GSA Form
-1142) shall be provided to the CO.
+The Contractor shall submit a proper invoice on a monthly basis. 
 
 8.1 Content of Invoice
 ----------------------
 
-The vendor will be provided with the following information when the
-acquisition has been awarded:
+In addition to the items below, the Contractor shall submit proper invoices as specified in FAR 52.212-4(g): 
 
--   Contract/Order Number
-
--   Period of Performance covered by the invoice
-
--   CLIN number and title
-
--   The Accounting Number Associated with the task order
-
-All of this information must be included on each invoice in addition to
-the requirements for a proper invoice specified in FAR [<span
-class="underline">52.212-4
-(g)</span>](https://www.acquisition.gov/far/html/52_212_213.html#wp1179465)
-and the Prompt Payment clause, FAR [<span
-class="underline">52.212-4(i)(2)</span>](https://www.acquisition.gov/far/html/52_212_213.html#wp1179465).
+Contract/Order Number - Provided at time of award
+Period of Performance covered by the invoice
+Contract Line Item Number (CLIN)
+ 
+The Contractor shall submit a final invoice at the end of the period of performance within 60 calendar days after Task Order completion. No further charges are to be billed following the final invoice submission. With the submission of a final invoice, a completed and signed Release of Claims (GSA Form 1142) shall be provided to the CO.
 
 8.2 Invoice Submission
 ----------------------
@@ -530,12 +477,9 @@ system.
 This acquisition will be administered by the following individuals, who
 will also monitor vendor performance:
 
-1.  GSA Technical Point of Contact: Britta Gustafson
-
-2.  GSA TTS Contracting Officer: Michelle McNellis
-
-3.  GSA TTS Contracting Officer Representative: Will be assigned at time
-    > of award
+GSA TTS Contracting Officer: Kirsten Green 
+GSA TTS Contracting Officer Representative: Will be provided at time of award 
+GSA Technical Point of Contact: Will be provided at time of award
 
 10.0 Post Award and Kickoff Meeting
 ===================================
@@ -563,42 +507,28 @@ TTS Product Owner’s request.
 
 The place of performance will primarily be at the vendor’s work site.
 
-11.0 TTS Transparency Policy
+11.0 Policy
 ============================
 
-Vendors are advised that TTS reserves the right to publish documents
-associated with this requirement on a publicly-available website,
-including any Requests for Quotation (including amendments), Question
-and Answer exchanges with vendors (source-identifying information
-removed), and other relevant information that is not confidential or
-proprietary in nature or source selection sensitive information that
-would otherwise implicate procurement integrity concerns.
+Vendors are advised that TTS reserves the right to publish documents associated with this requirement on a publicly-available website, including any Requests for Quotation (including amendments), Question and Answer exchanges with vendors (source-identifying information removed), and other relevant information that is not confidential or proprietary in nature or source selection sensitive information that would otherwise implicate procurement integrity concerns.
 
-Upon award, TTS may publish the total awarded price and certain
-non-source-identifying data (for example, the number of bids, the mean
-price, median, and standard deviation of price). During the performance
-of this task order, TTS may similarly publish data related to project
-management (for example, user stories, milestones, and performance
-metrics) and top-line spending data.
+Upon award, TTS may publish the total awarded price and certain non-source-identifying data (for example, the number of bids, the mean price, median, and standard deviation of price). During the performance of this task order, TTS may similarly publish data related to project management (for example, user stories, milestones, and performance metrics) and top-line spending data.
 
 11.1 Section 508 Compliance
----------------------------
+The Contractor shall support the Government in its compliance with Section 508 throughout the development and implementation of the work to be performed.
 
-The contractor shall support the Government in its compliance with
-Section 508 throughout the development and implementation of the work to
-be performed.
+Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 794d) requires that when Federal agencies develop, procure, maintain, or use electronic information technology, Federal employees with disabilities have access to and use of information and data that is comparable to the access and use by Federal employees who do not have disabilities, unless an undue burden would be imposed on the agency. Section 508 also requires that individuals with disabilities, who are members of the public seeking information or services from a Federal agency, have access to and use of information and data that is comparable to that provided to the public who are not individuals with disabilities, unless an undue burden would be imposed on the agency.
 
-Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C.
-794d) requires that when Federal agencies develop, procure, maintain, or
-use electronic information technology, Federal employees with
-disabilities have access to and use of information and data that is
-comparable to the access and use by Federal employees who do not have
-disabilities, unless an undue burden would be imposed on the agency.
-Section 508 also requires that individuals with disabilities, who are
-members of the public seeking information or services from a Federal
-agency, have access to and use of information and data that is
-comparable to that provided to the public who are not individuals with
-disabilities, unless an undue burden would be imposed on the agency.
+11.2 Privacy Act
+Performance of this Task Order may require that personnel have access to Privacy Information. Contractor personnel shall adhere to the Privacy Act, Title 5 of the U.S. Code, Section 552a and any other applicable applicable rules and regulations.
+
+11.3 Protection of Information
+The Contractor shall be responsible for properly protecting all information used, gathered, disclosed, or developed as a result of work under this Task Order. The Contractor shall also protect all Government data by treating information as sensitive. All information gathered or created under this Task Order shall be considered as Sensitive but Unclassified (SBU) information. The use of this data is subject to the Privacy Act and shall be utilized in full accordance with all rules of conduct as applicable to Privacy Act Information. 
+
+11.4 Organizational Conflicts of Interest
+All Contractor key personnel, employees, agents, subcontractors and subcontractor personnel who will have access to documents or data during the performance of their duties under the Task Order shall execute a Non-Disclosure Agreement and return it to the CO within 5 calendar days of award and before being given access to such information or documents. 
+
+The Contractor’s attention is directed to Federal Acquisition Regulation (FAR) Subpart 9.5, Organizational and Consultant Conflicts of Interest.
 
 12.0 Clauses
 ============
@@ -643,6 +573,9 @@ Confidentiality Agreements or Statements (JAN 2017)**
 
 **GSAR 552.232-39 Unenforceability of Unauthorized Obligations. (FAR
 Deviation Feb 2018)**
+
+**FAR 52.232-18 Availability of Funds (APR 1984)
+Funds are not presently available for this contract. The Government’s obligation under this contract is contingent upon the availability of appropriated funds from which payment for contract purposes can be made. No legal liability on the part of the Government for any payment may arise until funds are made available to the Contracting Officer for this contract and until the Contractor receives notice of such availability, to be confirmed in writing by the Contracting Officer.**
 
 **FAR 52.217-8 - Option to Extend Services (Nov 1999)**
 
