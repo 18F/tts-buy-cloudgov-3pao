@@ -1,10 +1,10 @@
 # tts-buy-cloud.gov-3pao
 
-Please submit any questions as [an Issue](https://github.com/18F/tts-buy-cloudgov-3pao/issues) in this repository by *Month DD, 2018 at 12:00pm ET*. The Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
+Please submit any questions as [an Issue](https://github.com/18F/tts-buy-cloudgov-3pao/issues) in this repository by *Noon Eastern Time on August 20, 2018*. The Contracting Officer will only be responding to questions submitted using the [Issue Template](ISSUE_TEMPLATE.md). Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
 
-**Quotes are due by Month DD, 2018 at 12:00 pm ET.**
+**Quotes are due by Noon Eastern Time on August 23, 2018**
 
-## Background
+## Statement of Need
 
 To continue to successfully achieve cloud.gov’s mission, cloud.gov
 requires annual re-assessment for all participating Cloud Service Providers, including annual auditing by an accredited Third Party Assessment Organization
@@ -14,7 +14,7 @@ requires annual re-assessment for all participating Cloud Service Providers, inc
 
 Additional information is provided in [the Performance Work Statement](https://github.com/18F/tts-buy-cloudgov-3pao/blob/master/solicitation_documents/PWS.md), but in short:
 
-The vendor must provide an  Annual Assessment Security Assessment Plan, Significant Change Request Security Assessment Plan, and Security Assessment Report as outline within the Request of Quotation section 3.0 Requirements.
+The vendor must provide security assessments and reports for an Annual Assessment, with options for including Significant Change Request assessments, for cloud.gov at the JAB Moderate security level. These security assessments must meet all of the requirements of a FedRAMP security assessment, as outline within the Request of Quotation section 3.0 Requirements.
 
 ### How to respond
 
