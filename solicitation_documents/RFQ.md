@@ -73,7 +73,7 @@ to the RFQ.
 
 Unless expressly authorized by the RFQ, any quoter planning to make an exception to a term or condition of the RFQ should consult with the CO via email kirsten.green@gsa.gov before submitting a quotation.
 
-**NOTE: This RFQ is being posted Per FAR 52.232-18 Availability of Funds. This award will not be made prior to receipt and acceptance of the funds. See FAR 52.232-18 Availability of Funds (APR 1984) in the Clause section of this RFQ.
+**NOTE: This RFQ is being posted Per FAR 52.232-18 Availability of Funds. This award will not be made prior to receipt and acceptance of the funds. See FAR 52.232-18 Availability of Funds (APR 1984) in the Clause section of this RFQ.**
 
 1.1 Questions
 -------------
