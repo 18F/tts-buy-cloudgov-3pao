@@ -6,10 +6,8 @@ Technology Transformation Services
 1800 F St NW \| Washington, DC \| 20405
 
 Request for Quotation
-
-Solicitation Number
-
-{{Solicitation-Number}}
+**cloud.gov Third Party Assessment Organizations**
+**RFQ #1319288**
 
 **From:** Kirsten Green, Contracting Officer (CO), General Services Administration (GSA), Technology Transformation Services (TTS)  
 
