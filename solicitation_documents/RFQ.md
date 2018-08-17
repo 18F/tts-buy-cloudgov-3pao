@@ -12,8 +12,11 @@ Request for Quotation
 **From:** Kirsten Green, Contracting Officer (CO), General Services Administration (GSA), Technology Transformation Services (TTS)  
 
 **Important Dates to Remember**
+
 Posted Date: August 16, 2018
+
 Questions Due By: August 20, 2018
+
 Response Due By: August 23, 2018
 
 **Set Aside:** None
