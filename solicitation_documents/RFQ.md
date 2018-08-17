@@ -173,8 +173,8 @@ The Contractor must deliver 3PAO deliverables required by FedRAMP, as guided by 
 
 | Deliverable                                                                        | Action                                                                     | Due Date                                            |
 |------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------|
-| Annual Assessment Security Assessment Plan                                         | Reviewed by [cloud.gov](https://cloud.gov/) office and sent to FedRAMP Program Management Office | 90 days before January 18, 2019 (October 20, 2018)  |
-| Annual Assessment Security Assessment Report                                       | Reviewed by [cloud.gov](https://cloud.gov/) office and sent to FedRAMP Program Management Office | 60 days before January 18, 2019 (November 19, 2018) |
+| Annual Assessment Security Assessment Plan                                         | Reviewed by [cloud.gov](https://cloud.gov/) office and sent to FedRAMP Program Management Office | 90 days before February 18, 2019 (November 20, 2018)  |
+| Annual Assessment Security Assessment Report                                       | Reviewed by [cloud.gov](https://cloud.gov/) office and sent to FedRAMP Program Management Office | 60 days before February 18, 2019 (December 19, 2018) |
 | Significant Change Request Security Assessment Plan and Security Assessment Report | Reviewed by program office and sent to FedRAMP Program Management Office   | Ongoing (as needed)                                 |
 
 4.0 Evaluation Criteria and Basis for Award
