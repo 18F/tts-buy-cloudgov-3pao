@@ -110,9 +110,9 @@ and [FedRAMP General Document Acceptance Criteria](https://www.fedramp.gov/asset
 
 -   The contractor is expected to provide the following categories of services:
 
-    -   3.2.3 Annual Assessment
+    -   Task 1. Annual Assessment
 
-    -   3.2.4 Significant Change Assessment
+    -   Task 2. Significant Change Assessment
 
 ### **Requirements**
 
