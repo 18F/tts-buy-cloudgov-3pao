@@ -7,17 +7,17 @@ Technology Transformation Services
 
 Request for Quotation
 **[cloud.gov](https://cloud.gov/) Third Party Assessment Organizations**
-**RFQ #1319288**
+**RFQ #1322561**
 
 **From:** Kirsten Green, Contracting Officer (CO), General Services Administration (GSA), Technology Transformation Services (TTS)  
 
 **Important Dates to Remember**
 
-Posted Date: August 16, 2018
+Posted Date: August 24, 2018
 
-Questions Due By: August 20, 2018
+Questions Due By: August 27, 2018
 
-Response Due By: August 23, 2018
+Response Due By: August 30, 2018
 
 **Set Aside:** None
 
@@ -61,14 +61,14 @@ Unless expressly authorized by the RFQ, any quoter planning to make an exception
 1.1 Questions
 -------------
 
-Any questions submitted concerning the RFQ must be submitted using the issue template in the associated repository no later than Noon Eastern Time on August 20, 2018. The Government will provide responses to open issues as soon as possible.
+Any questions submitted concerning the RFQ must be submitted using the issue template in the associated repository no later than Noon Eastern Time on August 27, 2018. The Government will provide responses to open issues as soon as possible.
 
 1.2 Quote Instructions
 ----------------------
 
 Quotes will only be accepted via the referenced Google Forms below. The vendor shall complete the [Technical Response Google Form](https://goo.gl/forms/qiWbrCa0UuhySRmq1) and [Price Response Google Form](https://goo.gl/forms/C5UOpsfDrA4bcdKw2).
 
-Quotes shall be submitted no later than Noon Eastern Time on August 23, 2018.
+Quotes shall be submitted no later than Noon Eastern Time on August 30, 2018.
 
 2.0 Background
 ==============
@@ -96,15 +96,14 @@ Statement of Need
 
 For the tasks described in the RFQ, the Contractor must be a 3PAO that meets the following criteria:
 
--   The 3PAO has completed a Readiness Assessment, Initial Assessment, or Annual Assessment for a FedRAMP PaaS cloud system;
+-   Completed a FedRAMP Readiness Assessment, Initial Assessment, or Annual Assessment for a cloud service provider;
 
 -   FedRAMP categorizes the 3PAO as fully compliant with all [3PAO standards](https://portal.a2la.org/requirements/A2LA_R311.pdf) promulgated by FedRAMP;
 
 3.2 Performance of Security Assessment and Auditing Services for TTS
 --------------------------------------------------------------------
 
-The contractor must assess and audit cloud services in accordance with the associated FedRAMP baseline for testing of the NIST 800-53 (as
-revised) controls, [FedRAMP 3PAO Obligations and Performance Guide](https://www.fedramp.gov/assets/resources/documents/3PAO_Obligations_and_Performance_Guide.pdf),
+The contractor must assess and audit cloud services in accordance with the associated FedRAMP baseline for testing of the NIST 800-53 (as revised) controls, [FedRAMP 3PAO Obligations and Performance Guide](https://www.fedramp.gov/assets/resources/documents/3PAO_Obligations_and_Performance_Guide.pdf),
 and [FedRAMP General Document Acceptance Criteria](https://www.fedramp.gov/assets/resources/documents/FedRAMP_General_Document_Acceptance_Criteria.pdf). The contractor must assess and audit controls required by the FedRAMP Baselines located at [https://www.fedramp.gov/templates/](https://www.fedramp.gov/templates/).
 
 ### **Scope**
@@ -203,7 +202,7 @@ The Government intends to utilize a phased approach for this procurement as desc
 Minimum requirements are defined as follows. At the time of quote
 submission:
 
--   The 3PAO has completed a Readiness Assessment, Initial Assessment, or Annual Assessment for a FedRAMP PaaS cloud system;
+-   Completed a FedRAMP Readiness Assessment, Initial Assessment, or Annual Assessment for a cloud service provider;
 
 -   FedRAMP categorizes the 3PAO as fully compliant with all [3PAO standards](https://portal.a2la.org/requirements/A2LA_R311.pdf) promulgated by FedRAMP;
 
