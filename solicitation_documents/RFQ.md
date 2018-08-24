@@ -66,7 +66,7 @@ Any questions submitted concerning the RFQ must be submitted using the issue tem
 1.2 Quote Instructions
 ----------------------
 
-Quotes will only be accepted via the referenced Google Forms below. The vendor shall complete the [Technical Response Google Form](https://goo.gl/forms/qiWbrCa0UuhySRmq1) and [Price Response Google Form](https://goo.gl/forms/C5UOpsfDrA4bcdKw2).
+Quotes will only be accepted via the referenced Google Forms below. The vendor shall complete the [Technical Response Google Form](https://goo.gl/forms/6i1Pz531alM1JJF92) and [Price Response Google Form](https://goo.gl/forms/C5UOpsfDrA4bcdKw2).
 
 Quotes shall be submitted no later than Noon Eastern Time on August 30, 2018.
 
@@ -206,14 +206,14 @@ submission:
 
 -   FedRAMP categorizes the 3PAO as fully compliant with all [3PAO standards](https://portal.a2la.org/requirements/A2LA_R311.pdf) promulgated by FedRAMP;
 
-Only quotes deemed as compliant will move on to Phase 2. The quoter shall submit Compliance Review information via the [Technical Evaluation Google Form](https://goo.gl/forms/qiWbrCa0UuhySRmq1).
+Only quotes deemed as compliant will move on to Phase 2. The quoter shall submit Compliance Review information via the [Technical Evaluation Google Form](https://goo.gl/forms/6i1Pz531alM1JJF92).
 
 5.2 - Phase 2 Technical Evaluation and Oral Interview
 ------------------------------------------------------
 
 ### *Factor 1. Technical Understanding and Approach*
 
-The offeror shall describe within the [Technical Evaluation Google Form](https://goo.gl/forms/qiWbrCa0UuhySRmq1), level of knowledge, technical expertise and overall understanding of the requirement as set forth in the PWS, Section 3.0.
+The offeror shall describe within the [Technical Evaluation Google Form]https://goo.gl/forms/6i1Pz531alM1JJF92), level of knowledge, technical expertise and overall understanding of the requirement as set forth in the PWS, Section 3.0.
 
 -   Briefly describe your approach to performing annual assessment or SCR assessment for the [cloud.gov](https://cloud.gov/) system, including: penetration testing, key security risks you would look for, and any special experience you have in analyzing this type of system. (No need to summarize the routine FedRAMP assessment steps; the government is interested in your thought process for evaluating the security and compliance of this specific system.)
 
