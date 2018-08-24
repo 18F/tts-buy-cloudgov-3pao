@@ -27,7 +27,7 @@ The vendor must provide security assessments and reports for an Annual Assessmen
 
 Additional information is provided in the [Instructions section](https://github.com/18F/tts-buy-cloudgov-3pao/blob/master/solicitation_documents/RFQ.md#10-instructions) of the RFQ, but in short:
 
-Quotation must be received electronically via the [RFQ Technical Response Form](https://goo.gl/forms/6i1Pz531alM1JJF92) and the [RFQ Pricing Response Form](https://goo.gl/forms/C5UOpsfDrA4bcdKw2), by the official closing date and time identified above. A late quotation will not be considered for award.
+Quotation must be received electronically via the [RFQ Technical Response Form](https://goo.gl/forms/6i1Pz531alM1JJF92) and the [RFQ Pricing Response Form](https://goo.gl/forms/Z1Urc3K2PNeBDzXG3), by the official closing date and time identified above. A late quotation will not be considered for award.
 
 ## Contributing
 
