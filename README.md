@@ -6,10 +6,10 @@
 
 ### Question and Answer Period
 
-All questions submitted concerning the RFQ must be submitted using the issue template in the associated repository no later than Noon Eastern Time on August 20, 2018. The Government will provide responses to open issues as soon as possible.
+All questions submitted concerning the RFQ must be submitted using the issue template in the associated repository no later than Noon Eastern Time on August 27, 2018. The Government will provide responses to open issues as soon as possible.
 
 ### Technical and Price Submission
-Quotes will only be accepted via the referenced Google Forms below. The vendor shall complete the Technical Response Google Form and Price Response Google Form. Quotes shall be submitted no later than Noon Eastern Time on August 23, 2018.
+Quotes will only be accepted via the referenced Google Forms below. The vendor shall complete the Technical Response Google Form and Price Response Google Form. Quotes shall be submitted no later than Noon Eastern Time on August 30, 2018.
 
 ## Statement of Need
 
@@ -27,7 +27,7 @@ The vendor must provide security assessments and reports for an Annual Assessmen
 
 Additional information is provided in the [Instructions section](https://github.com/18F/tts-buy-cloudgov-3pao/blob/master/solicitation_documents/RFQ.md#10-instructions) of the RFQ, but in short:
 
-> Quotation must be received electronically via the [RFQ Technical Response Form](https://goo.gl/forms/kjItH11CM2dq32oF3) and the [RFQ Pricing Response Form](https://goo.gl/forms/C5UOpsfDrA4bcdKw2), by the official closing date and time identified above. A late quotation will not be considered for award.
+Quotation must be received electronically via the [RFQ Technical Response Form](https://goo.gl/forms/kjItH11CM2dq32oF3) and the [RFQ Pricing Response Form](https://goo.gl/forms/C5UOpsfDrA4bcdKw2), by the official closing date and time identified above. A late quotation will not be considered for award.
 
 ## Contributing
 
@@ -37,6 +37,6 @@ See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
 
-> This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
->
-> All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
+This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+
+All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
