@@ -66,7 +66,7 @@ Any questions submitted concerning the RFQ must be submitted using the issue tem
 1.2 Quote Instructions
 ----------------------
 
-Quotes will only be accepted via the referenced Google Forms below. The vendor shall complete the [Technical Response Google Form](https://goo.gl/forms/6i1Pz531alM1JJF92) and [Price Response Google Form](https://goo.gl/forms/C5UOpsfDrA4bcdKw2).
+Quotes will only be accepted via the referenced Google Forms below. The vendor shall complete the [Technical Response Google Form](https://goo.gl/forms/6i1Pz531alM1JJF92) and [Price Response Google Form](https://goo.gl/forms/Z1Urc3K2PNeBDzXG3).
 
 Quotes shall be submitted no later than Noon Eastern Time on August 30, 2018.
 
@@ -271,7 +271,7 @@ After the Interviews, vendors shall email the names of everyone who attended to 
 5.3 - Phase 3 Price Evaluation
 -------------------------------
 
-The vendor shall submit a quote either at or below its current GSA Schedule price. Prices shall be submitted via the [Price Evaluation Form](https://goo.gl/forms/0k0niNqDRJ9WcGDw1). Proposed prices shall be evaluated for reasonableness and consistency with industry standards.
+The vendor shall submit a quote either at or below its current GSA Schedule price. Prices shall be submitted via the [Price Evaluation Form](https://goo.gl/forms/Z1Urc3K2PNeBDzXG3). Proposed prices shall be evaluated for reasonableness and consistency with industry standards.
 
 In the event the Government modifies the order under FAR 52.217-8, accepted/awarded prices for the last Option Year will be used. Evaluation of Option Years does not obligate the Government to exercise Option Years.
 
