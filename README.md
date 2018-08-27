@@ -6,7 +6,7 @@
 
 ### Question and Answer Period
 
-All questions submitted concerning the RFQ must be submitted using the Issue (https://github.com/18F/tts-buy-cloudgov-3pao/issues/new) template in the associated repository no later than Noon Eastern Time on August 27, 2018. The Government will provide responses to open issues as soon as possible.
+All questions submitted concerning the RFQ must be submitted using the [issue template](https://github.com/18F/tts-buy-cloudgov-3pao/issues/new) in the associated repository no later than Noon Eastern Time on August 27, 2018. The Government will provide responses to open issues as soon as possible.
 
 ### Technical and Price Submission
 Quotes will only be accepted via the referenced Google Forms below. The vendor shall complete the Technical Response Google Form and Price Response Google Form. Quotes shall be submitted no later than Noon Eastern Time on August 30, 2018.
